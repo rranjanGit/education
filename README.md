@@ -1,2 +1,2 @@
-# education
+# Education
 This is first repository
